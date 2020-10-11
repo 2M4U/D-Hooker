@@ -1,7 +1,7 @@
 # D-Hooker
 _Custom Webhook Module for Discord_
 
-<kbd>[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8ac009bb0d644ce5878d4ec53273fbcd)](https://www.codacy.com/gh/CyberCDN/Discord-Hooker/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=CyberCDN/Discord-Hooker&amp;utm_campaign=Badge_Grade)
+<kbd>[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8ac009bb0d644ce5878d4ec53273fbcd)](https://www.codacy.com/gh/CyberCDN/D-Hooker/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=CyberCDN/D-Hooker&amp;utm_campaign=Badge_Grade)
 </kbd>
 
 ## Example Usage
